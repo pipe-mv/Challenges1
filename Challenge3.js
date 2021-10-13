@@ -2,7 +2,7 @@
 
 //https://edabit.com/challenge/wu7DA5ud68NjPbXjb
 
-function sumOdd( num){
+function addOddTon( num){
 
   let sum = 0
 
