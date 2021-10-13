@@ -1,5 +1,7 @@
 // Challenge 3
 
+//https://edabit.com/challenge/wu7DA5ud68NjPbXjb
+
 function sumOdd( num){
 
   let sum = 0
@@ -14,5 +16,3 @@ function sumOdd( num){
   }
   return sum
 }
-
-sumOdd(5);
