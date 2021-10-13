@@ -1,5 +1,7 @@
 //Challenge 1
 
+//https://edabit.com/challenge/ygF4FR7ah2Bn9CNoz
+
 function addUpTo(num){
 
   let sum = 0
@@ -12,4 +14,3 @@ function addUpTo(num){
   return sum
 }
 
-addUpTo(5);
