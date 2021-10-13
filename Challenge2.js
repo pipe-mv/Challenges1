@@ -13,7 +13,7 @@ function sumSquare(num){
 
   for (let i = 1; i <= num ; i++){
 
-    sum = (i **2) + sum
+//     sum = (i **2) + sum
     sum = Math.pow ( i, 2) + sum
   }
   return sum
