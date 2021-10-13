@@ -1,6 +1,9 @@
 
 // Challenge 2
 
+//https://edabit.com/challenge/ip7xupP78R5z5mTmT
+
+
 let num = Number(prompt ("Escrbe un nùmero"))
 
 
@@ -16,4 +19,3 @@ function sumSquare(num){
   return sum
 }
 
-sumSquare(3);
