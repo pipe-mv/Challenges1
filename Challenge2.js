@@ -4,9 +4,6 @@
 //https://edabit.com/challenge/ip7xupP78R5z5mTmT
 
 
-let num = Number(prompt ("Escrbe un nùmero"))
-
-
 function sumSquare(num){
 
   let sum = 0
